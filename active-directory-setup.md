@@ -22,8 +22,8 @@ This phase documents the deployment of core Azure infrastructure components, inc
 
 ## 🚀 Implementation Steps
 ### 1. Create Resource Group
-- Name: `LognPacific-RG`
-- Region: e.g., [Europe] UK West
+- Name: `Active-Directory-Lab`
+- Region: Pick one and make sure you pick the same one for your virutal machines
 
 ### 2. Create Virtual Network
 - Name: `Active-Directory-VNET`
@@ -41,15 +41,6 @@ This phase documents the deployment of core Azure infrastructure components, inc
 - NIC: Assign to same VNet and subnet
 - Inbound port: RDP (3389)
 - Make client's dns server be the DC-1's private ip address 
-
----
-
-## 📸 Screenshots
-![Resource Group and VNet](./screenshots/01-azure/screenshots/rg-overview.png)
-![Resource Group and VNet](./screenshots/01-azure/screenshots/vn-overview.png)
-![VM Overview](./screenshots/01-azure/screenshots/vm-overview.png)
-![DC01 Configuration](./screenshots/01-azure/screenshots/dc01-configuration.png)
-![Client01 Configuration](./screenshots/01-azure/screenshots/client01-configuration.png)
 
 ---
 
