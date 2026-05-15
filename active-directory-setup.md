@@ -48,5 +48,3 @@ This phase documents the deployment of core Azure infrastructure components, inc
 ## 📌 Notes
 - Ensure both VMs are deployed to the same virtual network for connectivity.
 - After deployment, RDP into `DC01` and begin domain setup (next step).
-
-## [Continue to 2. Domain Controller Configuration (AD DS + AD CS)](./02-domain-controller-setup.md)
