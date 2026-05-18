@@ -48,3 +48,14 @@ This phase documents the deployment of core Azure infrastructure components, inc
 ## 📌 Notes
 - Ensure both VMs are deployed to the same virtual network for connectivity.
 - After deployment, RDP into `DC01` and begin domain setup (next step).
+
+
+## 📷 Screenshots
+![Resource Group and VNet]()
+![Resource Group and VNet]()
+![VM Overview]()
+![DC01 Configuration]()
+![Client01 Configuration]()
+[Watch the Video]()
+
+
