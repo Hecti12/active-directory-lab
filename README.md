@@ -35,7 +35,7 @@ In enterprise IT, Active Directory and Group Policy are foundational for managin
 
 ### 📂 Project Structure
 
-- [1. Azure Setup (Resource Group, VNet, VMs)]()
+- [1. Azure Setup (Resource Group, VNet, VMs)](active-directory-setup.md)
 - [2. Domain Controller Configuration (AD DS + AD CS)]()
 - [3. Organizational Units, Users & Groups]()
 - [4. File Shares & NTFS Permissions]()
