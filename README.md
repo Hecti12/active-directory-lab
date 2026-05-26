@@ -36,9 +36,21 @@ In enterprise IT, Active Directory and Group Policy are foundational for managin
 ###  Project Structure
 
 - [1. Azure Setup (Resource Group, VNet, VMs)](active-directory-setup.md)
-- [2. Domain Controller Configuration (AD DS + AD CS)]()
-- [3. Organizational Units, Users & Groups]()
-- [4. File Shares & NTFS Permissions]()
-- [5. Group Policy Drive Mapping]()
-- [6. Client Domain Join & RDP Configuration]()
-- [7. Summary]()
+
+---
+
+###  Project Videos
+
+#### Part 1: Active Directory Lab Overview
+
+[![Watch Part 1: Active Directory Lab Overview](https://img.youtube.com/vi/07iRTN0Dk5U/hqdefault.jpg)](https://youtu.be/07iRTN0Dk5U)
+
+**Watch here:** [Active Directory Lab Overview - Part 1](https://youtu.be/07iRTN0Dk5U)
+
+---
+
+#### Part 2: Active Directory Lab Demonstration
+
+[![Watch Part 2: Active Directory Lab Demonstration](https://img.youtube.com/vi/DoopP38VtHk/hqdefault.jpg)](https://youtu.be/DoopP38VtHk)
+
+**Watch here:** [Active Directory Lab Demonstration - Part 2](https://youtu.be/DoopP38VtHk)
